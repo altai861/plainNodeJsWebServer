@@ -1,0 +1,8 @@
+20230505	11:04:28	7e96efc8-26a0-421b-ab9e-737ce71b8f20	/new-page 	 GET
+20230505	11:04:28	07d9405f-3cb5-457f-a772-c484ef5ca47b	/css/style.css 	 GET
+20230505	11:04:28	2de39f49-71ee-4f58-9fc1-c596ed71d1bd	/img/img1.jpg 	 GET
+20230505	11:04:28	68dfdd22-e5c7-43e9-a23a-6bffdc5885de	/favicon.ico 	 GET
+20230505	11:19:22	eff7c66d-6b56-4369-bc45-4181b0be401b	/ww-page 	 GET
+20230505	11:19:23	05c9d2f0-3d46-470c-9716-d1b89756d291	/css/style.css 	 GET
+20230505	11:19:50	279e8ce2-6c33-420f-aeb1-8e6154bb52d8	/ 	 GET
+20230505	11:19:50	08f0a067-e98e-4e6e-b6b8-6bb1ac69b76b	/css/style.css 	 GET
